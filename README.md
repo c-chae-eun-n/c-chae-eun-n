@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 교육과정 수료
 * 의료영상 AI API연동 프로젝트 기반 자바(JAVA)풀스택 개발자 과정 수료(2023.12.27. ~ 2024.07.15.)
-* 세명대학교 컴퓨터학부 졸업 (2020.03.02 ~ 2024.02.15)
+* 컴퓨터학부 졸업 (2020.03.02 ~ 2024.02.15)
 
 ## 보유 기술
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
