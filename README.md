@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ## Others
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-chae-eun-n&show_icons=true&theme=neon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-chae-eun-n&show_icons=true&theme=dracula)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ce_hue125)](https://solved.ac/ce_hue125.giv)
